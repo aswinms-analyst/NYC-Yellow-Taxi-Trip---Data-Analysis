@@ -1,5 +1,6 @@
 # NYC Yellow Taxi Trip Data Analysis
-##Project Overview: 
+
+## Project Overview: 
 This project analyzes taxi trip data to uncover traffic congestion patterns and customer demand trends. The focus is on identifying which days of the week experience the most traffic, and understanding why short trips consume more duration despite low distance
 
 ---
